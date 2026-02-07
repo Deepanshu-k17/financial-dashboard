@@ -52,6 +52,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 - [ ] Add dark mode support.
 - [ ] Internationalization support.
 
-## License
 
-[MIT License](./LICENSE) © Igor Augusto
